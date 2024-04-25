@@ -75,5 +75,8 @@ Test/DerivedDataCache/*
 
 #Other
 Test/Content/StarterContent
+Test/Content/Collections
+Test/Content/EF_Edie
+Test/Content/PCMHall
 Test/Content/Developers
 Test/.vsconfig
